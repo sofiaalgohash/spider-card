@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+:root {
+    /* Blue shades */
+    --blue-50: #00262C;
+    --blue-100: #006878;
+    --blue-150: #015D79;
+    --blue-200: #00A9BF;
+
+    /* Grey shades */
+    --grey-50: #262626;
+}
